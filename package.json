@@ -1,6 +1,6 @@
 {
   "name": "react-lib-trikisheet",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "React Lib Trikitixa sheet view",
   "main": "build/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/oierbravo/react-lib-trikisheet/issues"
   },
-  "homepage": "https://github.com/oierbravo/create-react-library#readme",
+  "homepage": "https://github.com/oierbravo/react-lib-trikisheet#readme",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
